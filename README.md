@@ -15,7 +15,7 @@
 - 🎓 **Undergraduate**: Computer Science & Technology @ **XUPT**
 - 🏫 **Graduate** (1st Year): Big Data Technology & Engineering @ **SNNU**
 - 🔬 **Research Focus**: Large Language Model (LLM) Application Development
-- 🚀 **Goal**: Secure a satisfying internship and full-time position in the future
+- 🚀 **Goal**: Secure a satisfying full-time position in the future
 - 💬 **QQmail**: 2669866152@qq.com
 - 🌍 Based in **Xi'an / Shaanxi, China** 🇨🇳
 
