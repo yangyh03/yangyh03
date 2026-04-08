@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
 
 - 🎓 **Undergraduate**:  Computer Science & Technology @ **XUPT**
 - 🏫 **master**:  Big Data Technology & Engineering @ **SNNU**
